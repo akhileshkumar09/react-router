@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.user-profile{
+  background: rgb(106, 229, 229);
+  max-width: max-content;
+  min-width: fit-content;
+  margin: 10px auto;
+  padding: 20px 15px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px black;
+  text-align: left;
+}
+.home-header{
+  background: rgb(20, 169, 169);
+  margin-top: -20px;
+  height: 100px;
+  padding: 20px auto;
+  padding-top: 40px;
+}
+.link{
+  text-decoration: none;
+  font-size: 24px;
+  color: rgb(70, 69, 69);
+  margin: 20px 20px;
+}
+.problem-1{
+  background: #ab7659;
+}
+.problem-2{
+  background: #a8ab59;
+}
+.active-link {
+  background-color: #007bff;
+  color: rgb(85, 85, 85);
+}
